@@ -1,0 +1,11 @@
+/Users/tarluna/Projects/GoogleTest/GoogleTest/bin/Debug/netcoreapp2.1/GoogleTest.deps.json
+/Users/tarluna/Projects/GoogleTest/GoogleTest/bin/Debug/netcoreapp2.1/GoogleTest.runtimeconfig.json
+/Users/tarluna/Projects/GoogleTest/GoogleTest/bin/Debug/netcoreapp2.1/GoogleTest.runtimeconfig.dev.json
+/Users/tarluna/Projects/GoogleTest/GoogleTest/bin/Debug/netcoreapp2.1/GoogleTest.dll
+/Users/tarluna/Projects/GoogleTest/GoogleTest/bin/Debug/netcoreapp2.1/GoogleTest.pdb
+/Users/tarluna/Projects/GoogleTest/GoogleTest/obj/Debug/netcoreapp2.1/GoogleTest.csprojResolveAssemblyReference.cache
+/Users/tarluna/Projects/GoogleTest/GoogleTest/obj/Debug/netcoreapp2.1/GoogleTest.csproj.CoreCompileInputs.cache
+/Users/tarluna/Projects/GoogleTest/GoogleTest/obj/Debug/netcoreapp2.1/GoogleTest.AssemblyInfoInputs.cache
+/Users/tarluna/Projects/GoogleTest/GoogleTest/obj/Debug/netcoreapp2.1/GoogleTest.AssemblyInfo.cs
+/Users/tarluna/Projects/GoogleTest/GoogleTest/obj/Debug/netcoreapp2.1/GoogleTest.dll
+/Users/tarluna/Projects/GoogleTest/GoogleTest/obj/Debug/netcoreapp2.1/GoogleTest.pdb
