@@ -83,7 +83,7 @@ namespace Today
         }
 
 
-        public static string encode(string str)
+        public static string Encode(string str)
         {
             StringBuilder encoding = new StringBuilder();
             short count;
