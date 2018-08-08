@@ -687,11 +687,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/tarluna/Projects/REPOS/AlgorithmStudies/Today/Today/Today.csproj",
-      "projectName": "Today",
-      "projectPath": "/Users/tarluna/Projects/REPOS/AlgorithmStudies/Today/Today/Today.csproj",
+      "projectUniqueName": "/Users/tarluna/Projects/REPOS/AlgorithmStudies/Today/Day-07-08/Day-07-08.csproj",
+      "projectName": "Day-07-08",
+      "projectPath": "/Users/tarluna/Projects/REPOS/AlgorithmStudies/Today/Day-07-08/Day-07-08.csproj",
       "packagesPath": "/Users/tarluna/.nuget/packages/",
-      "outputPath": "/Users/tarluna/Projects/REPOS/AlgorithmStudies/Today/Today/obj",
+      "outputPath": "/Users/tarluna/Projects/REPOS/AlgorithmStudies/Today/Day-07-08/obj",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"

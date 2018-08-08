@@ -9,3 +9,14 @@
 /Users/tarluna/Projects/Today/Today/obj/Debug/netcoreapp2.1/Today.AssemblyInfo.cs
 /Users/tarluna/Projects/Today/Today/obj/Debug/netcoreapp2.1/Today.dll
 /Users/tarluna/Projects/Today/Today/obj/Debug/netcoreapp2.1/Today.pdb
+/Users/tarluna/Projects/REPOS/AlgorithmStudies/Today/Today/bin/Debug/netcoreapp2.1/Today.deps.json
+/Users/tarluna/Projects/REPOS/AlgorithmStudies/Today/Today/bin/Debug/netcoreapp2.1/Today.runtimeconfig.json
+/Users/tarluna/Projects/REPOS/AlgorithmStudies/Today/Today/bin/Debug/netcoreapp2.1/Today.runtimeconfig.dev.json
+/Users/tarluna/Projects/REPOS/AlgorithmStudies/Today/Today/bin/Debug/netcoreapp2.1/Today.dll
+/Users/tarluna/Projects/REPOS/AlgorithmStudies/Today/Today/bin/Debug/netcoreapp2.1/Today.pdb
+/Users/tarluna/Projects/REPOS/AlgorithmStudies/Today/Today/obj/Debug/netcoreapp2.1/Today.csprojResolveAssemblyReference.cache
+/Users/tarluna/Projects/REPOS/AlgorithmStudies/Today/Today/obj/Debug/netcoreapp2.1/Today.csproj.CoreCompileInputs.cache
+/Users/tarluna/Projects/REPOS/AlgorithmStudies/Today/Today/obj/Debug/netcoreapp2.1/Today.AssemblyInfoInputs.cache
+/Users/tarluna/Projects/REPOS/AlgorithmStudies/Today/Today/obj/Debug/netcoreapp2.1/Today.AssemblyInfo.cs
+/Users/tarluna/Projects/REPOS/AlgorithmStudies/Today/Today/obj/Debug/netcoreapp2.1/Today.dll
+/Users/tarluna/Projects/REPOS/AlgorithmStudies/Today/Today/obj/Debug/netcoreapp2.1/Today.pdb
