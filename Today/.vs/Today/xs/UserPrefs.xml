@@ -1,9 +1,9 @@
 ﻿<Properties StartupConfiguration="{F716C09B-8D38-4788-B257-A0FA29AB32F5}|Default">
   <MonoDevelop.Ide.ItemProperties.Day-07-08 PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Day-07-08/Program.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Today/Program.cs">
     <Files>
-      <File FileName="Day-07-08/Program.cs" Line="29" Column="51" />
-      <File FileName="Today/Program.cs" Line="10" Column="1" />
+      <File FileName="Day-07-08/Program.cs" Line="45" Column="35" />
+      <File FileName="Today/Program.cs" Line="39" Column="18" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
