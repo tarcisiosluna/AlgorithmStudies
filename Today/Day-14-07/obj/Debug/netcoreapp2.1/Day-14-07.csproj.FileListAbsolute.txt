@@ -1,0 +1,10 @@
+/Users/tarluna/Projects/REPOS/AlgorithmStudies/Today/Day-14-07/bin/Debug/netcoreapp2.1/Day-14-07.deps.json
+/Users/tarluna/Projects/REPOS/AlgorithmStudies/Today/Day-14-07/bin/Debug/netcoreapp2.1/Day-14-07.runtimeconfig.json
+/Users/tarluna/Projects/REPOS/AlgorithmStudies/Today/Day-14-07/bin/Debug/netcoreapp2.1/Day-14-07.runtimeconfig.dev.json
+/Users/tarluna/Projects/REPOS/AlgorithmStudies/Today/Day-14-07/bin/Debug/netcoreapp2.1/Day-14-07.dll
+/Users/tarluna/Projects/REPOS/AlgorithmStudies/Today/Day-14-07/bin/Debug/netcoreapp2.1/Day-14-07.pdb
+/Users/tarluna/Projects/REPOS/AlgorithmStudies/Today/Day-14-07/obj/Debug/netcoreapp2.1/Day-14-07.csproj.CoreCompileInputs.cache
+/Users/tarluna/Projects/REPOS/AlgorithmStudies/Today/Day-14-07/obj/Debug/netcoreapp2.1/Day-14-07.AssemblyInfoInputs.cache
+/Users/tarluna/Projects/REPOS/AlgorithmStudies/Today/Day-14-07/obj/Debug/netcoreapp2.1/Day-14-07.AssemblyInfo.cs
+/Users/tarluna/Projects/REPOS/AlgorithmStudies/Today/Day-14-07/obj/Debug/netcoreapp2.1/Day-14-07.dll
+/Users/tarluna/Projects/REPOS/AlgorithmStudies/Today/Day-14-07/obj/Debug/netcoreapp2.1/Day-14-07.pdb

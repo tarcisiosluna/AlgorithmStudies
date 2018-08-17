@@ -1,13 +1,16 @@
-﻿<Properties StartupConfiguration="{71D26DBD-2559-4476-8F7D-2F40D5C15636}|Default">
+﻿<Properties StartupConfiguration="{62A3B16B-B1A6-4611-92BF-78BC6F5FF626}|Default">
   <MonoDevelop.Ide.ItemProperties.Day-07-08 PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Day-09-07/Program.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Day-14-07/Program.cs">
     <Files>
-      <File FileName="Day-09-07/Program.cs" Line="9" Column="13" />
+      <File FileName="Day-09-07/Program.cs" Line="8" Column="187" />
+      <File FileName="Day-14-07/Program.cs" Line="14" Column="29" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
-    <BreakpointStore />
+    <BreakpointStore>
+      <Breakpoint file="/Users/tarluna/Projects/REPOS/AlgorithmStudies/Today/Day-09-07/Program.cs" relfile="Day-09-07/Program.cs" line="18" column="1" />
+    </BreakpointStore>
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches>
     <Watch file="../../../Day-12-08/Program.cs" line="24" offsetX="692" offsetY="238" expression="input[i]" liveUpdate="False" />
@@ -15,6 +18,7 @@
     <Watch file="../../../Day-12-08/Program.cs" line="22" offsetX="532" offsetY="242" expression="i" liveUpdate="True" />
   </MonoDevelop.Ide.DebuggingService.PinnedWatches>
   <MonoDevelop.Ide.ItemProperties.day- PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.Day-14-07 PreferredExecutionTarget="MonoDevelop.Default" />
   <MultiItemStartupConfigurations />
   <MonoDevelop.Ide.ItemProperties.08-12 FirstBuild="True" />
   <MonoDevelop.Ide.ItemProperties.Day-09-07 PreferredExecutionTarget="MonoDevelop.Default" />
