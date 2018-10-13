@@ -14,8 +14,10 @@ namespace Day_07_08
 
         protected static void Main(string[] args)
         {
+
             int[] walls = { 2, 3, 0, 1, 5, 0, 5, 6 };
             Console.WriteLine(GetTrappedWater(walls));
+            
         }
 
         private static int GetTrappedWater(int[] walls)

@@ -8,3 +8,14 @@
 /Users/tarluna/Projects/REPOS/AlgorithmStudies/Today/Day-18-08/obj/Debug/netcoreapp2.1/Day-18-08.AssemblyInfo.cs
 /Users/tarluna/Projects/REPOS/AlgorithmStudies/Today/Day-18-08/obj/Debug/netcoreapp2.1/Day-18-08.dll
 /Users/tarluna/Projects/REPOS/AlgorithmStudies/Today/Day-18-08/obj/Debug/netcoreapp2.1/Day-18-08.pdb
+/Users/tarluna/REPOS/C#/AlgorithmStudies/Today/Day-18-08/bin/Debug/netcoreapp2.1/Day-18-08.deps.json
+/Users/tarluna/REPOS/C#/AlgorithmStudies/Today/Day-18-08/bin/Debug/netcoreapp2.1/Day-18-08.runtimeconfig.json
+/Users/tarluna/REPOS/C#/AlgorithmStudies/Today/Day-18-08/bin/Debug/netcoreapp2.1/Day-18-08.runtimeconfig.dev.json
+/Users/tarluna/REPOS/C#/AlgorithmStudies/Today/Day-18-08/bin/Debug/netcoreapp2.1/Day-18-08.dll
+/Users/tarluna/REPOS/C#/AlgorithmStudies/Today/Day-18-08/bin/Debug/netcoreapp2.1/Day-18-08.pdb
+/Users/tarluna/REPOS/C#/AlgorithmStudies/Today/Day-18-08/obj/Debug/netcoreapp2.1/Day-18-08.csprojAssemblyReference.cache
+/Users/tarluna/REPOS/C#/AlgorithmStudies/Today/Day-18-08/obj/Debug/netcoreapp2.1/Day-18-08.csproj.CoreCompileInputs.cache
+/Users/tarluna/REPOS/C#/AlgorithmStudies/Today/Day-18-08/obj/Debug/netcoreapp2.1/Day-18-08.AssemblyInfoInputs.cache
+/Users/tarluna/REPOS/C#/AlgorithmStudies/Today/Day-18-08/obj/Debug/netcoreapp2.1/Day-18-08.AssemblyInfo.cs
+/Users/tarluna/REPOS/C#/AlgorithmStudies/Today/Day-18-08/obj/Debug/netcoreapp2.1/Day-18-08.dll
+/Users/tarluna/REPOS/C#/AlgorithmStudies/Today/Day-18-08/obj/Debug/netcoreapp2.1/Day-18-08.pdb
