@@ -1,20 +1,21 @@
-﻿<Properties StartupConfiguration="{F716C09B-8D38-4788-B257-A0FA29AB32F5}|Default">
+﻿<Properties StartupConfiguration="{B7149881-BC97-4D94-991E-EDE228580DA9}|Default">
   <MonoDevelop.Ide.ItemProperties.Day-07-08 PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Day-07-08/Program.cs">
-    <Files>
-      <File FileName="Day-07-08/Program.cs" Line="33" Column="38" />
-      <File FileName="Today/Program.cs" Line="10" Column="1" />
-    </Files>
-  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.Day-06-08 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches>
-    <Watch file="../../../Day-07-08/Program.cs" line="29" offsetX="637" offsetY="414" expression="waterTrappedCount" liveUpdate="False" />
-    <Watch file="../../../Day-07-08/Program.cs" line="24" offsetX="631" offsetY="335" expression="firstWallSize" liveUpdate="False" />
-    <Watch file="../../../Day-07-08/Program.cs" line="27" offsetX="653" offsetY="376" expression="walls[i]" liveUpdate="False" />
+    <Watch file="../../../Day-12-08/Program.cs" line="24" offsetX="692" offsetY="238" expression="input[i]" liveUpdate="False" />
+    <Watch file="../../../Day-12-08/Program.cs" line="24" offsetX="922" offsetY="235" expression="input" liveUpdate="False" />
+    <Watch file="../../../Day-12-08/Program.cs" line="22" offsetX="532" offsetY="242" expression="i" liveUpdate="True" />
   </MonoDevelop.Ide.DebuggingService.PinnedWatches>
+  <MonoDevelop.Ide.ItemProperties.day- PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.Day-14-07 PreferredExecutionTarget="MonoDevelop.Default" />
   <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.ItemProperties.Today PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.08-12 FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.Day-09-07 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.Day-12-08 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.Day-18-08 PreferredExecutionTarget="MonoDevelop.Default" />
 </Properties>

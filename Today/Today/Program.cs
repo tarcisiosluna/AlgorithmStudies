@@ -6,6 +6,12 @@ namespace Today
 {
     class Program
     {
+        /*
+         Run-length encoding is a fast and simple method of encoding strings. The basic idea is to represent repeated successive characters as a single count and character. 
+         For example, the string "AAAABBBCCDAA" would be encoded as "4A3B2C1D2A".
+         Implement run-length encoding and decoding. You can assume the string to be encoded have no digits and consists solely of alphabetic characters. 
+         You can assume the string to be decoded is valid.
+         */
         static void Main(string[] args)
         {
             
@@ -83,7 +89,7 @@ namespace Today
         }
 
 
-        public static string encode(string str)
+        public static string Encode(string str)
         {
             StringBuilder encoding = new StringBuilder();
             short count;

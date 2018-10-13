@@ -687,9 +687,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/tarluna/Projects/REPOS/AlgorithmStudies/Today/Today/Today.csproj",
-      "projectName": "Today",
-      "projectPath": "/Users/tarluna/Projects/REPOS/AlgorithmStudies/Today/Today/Today.csproj",
+      "projectUniqueName": "/Users/tarluna/Projects/REPOS/AlgorithmStudies/Today/Today/Day-06-08.csproj",
+      "projectName": "Day-06-08",
+      "projectPath": "/Users/tarluna/Projects/REPOS/AlgorithmStudies/Today/Today/Day-06-08.csproj",
       "packagesPath": "/Users/tarluna/.nuget/packages/",
       "outputPath": "/Users/tarluna/Projects/REPOS/AlgorithmStudies/Today/Today/obj",
       "projectStyle": "PackageReference",
