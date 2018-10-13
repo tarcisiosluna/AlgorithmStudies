@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Linq;
 
 namespace Day_18_08
 {
@@ -12,6 +13,7 @@ namespace Day_18_08
             int[] array = {6, 1, 3, 3, 3, 6, 6};
             FindNonDuplicated(array);
         }
+
 
         private static int FindNonDuplicated(int[] array)
         {
